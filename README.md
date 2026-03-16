@@ -1,23 +1,23 @@
 # Swelly Music Bot
 
-A completely custom responsive claymorphism Next.js landing page built for modern Discord bots.
+A clean, responsive landing page template crafted specifically for modern Discord bots. Built with a distinctive claymorphism aesthetic.
 
-## Features Built
-- 🎨 **Claymorphism Aesthetic**: Advanced Tailwind Box Shadows to simulate real world soft/tactile objects.
-- ⚡ **Next.js & App Router**: Fast, optimal routing setup separating out logic.
-- 💨 **Tailwind CSS**: 100% utility class based. 
+## Architecture & Design
+- **Claymorphism Aesthetic**: Utilizes advanced Tailwind CSS box shadows to create soft, tactile depth and simulate real-world physical interfaces.
+- **Next.js App Router**: Leverages the latest Next.js routing paradigms for optimal speed and structural organization.
+- **Tailwind CSS**: Fully designed using a reliable, 100% utility-class-based styling approach.
 
 ## Getting Started
-First, install the required packages:
+First, install the necessary dependencies:
 
 ```bash
 npm install
 ```
 
-Then, run the development server:
+Next, kick off the local development server:
 
 ```bash
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Finally, open [http://localhost:3000](http://localhost:3000) with your browser to view the application in action.
