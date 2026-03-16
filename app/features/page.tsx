@@ -1,5 +1,6 @@
 import React from 'react';
 import Navbar from '../../components/Navbar';
+import Footer from '../../components/Footer';
 
 export default function FeaturesPage() {
   const clayBase = "shadow-[8px_8px_16px_rgba(99,102,241,0.1),_inset_-8px_-8px_16px_rgba(99,102,241,0.05),_inset_8px_8px_16px_rgba(255,255,255,1)]";
@@ -34,6 +35,8 @@ export default function FeaturesPage() {
           </div>
         </div>
       </main>
+
+      <Footer />
     </div>
   );
 }
